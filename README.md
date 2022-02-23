@@ -4,9 +4,9 @@ Due 02/23 at 12pm
 Contributors:
 Sodi Kroehler as SodapopKroehler
 __ as ragi g
-__ as Gubba
+__ as Gubba  
 
-//**remove this section before submit**//
+**remove this section before submit**
 TODO:
 clone this repo
 There are three "sections" of the program, so we can 
@@ -18,8 +18,8 @@ input of name
 inputing some other input
 writing the function that does something with those two things
 
-Then, commit it back. Ill manage merges since its my repo and thus you cant//
-**remove this section before submit**//
+Then, commit it back. Ill manage merges since its my repo and thus you cant  
+**remove this section before submit**  
 
 
 Program Description:
