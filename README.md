@@ -6,7 +6,7 @@ Sodi Kroehler as SodapopKroehler
 __ as ragi g
 __ as Gubba  
 
-**remove this section before submit**
+<br />**remove this section before submit**<br />
 TODO:
 clone this repo
 There are three "sections" of the program, so we can 
@@ -19,7 +19,7 @@ inputing some other input
 writing the function that does something with those two things
 
 Then, commit it back. Ill manage merges since its my repo and thus you cant  
-**remove this section before submit**  
+<br />**remove this section before submit**<br />
 
 
 Program Description:
